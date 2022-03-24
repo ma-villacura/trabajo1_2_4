@@ -1,0 +1,56 @@
+
+*{
+    font-family:sans-serif;
+}
+
+
+
+body {background-color: rgb(53, 50, 50);
+    background-position: right;
+    
+    color: white;
+
+}
+
+#izquierda1{
+    float: left;
+    text-align: left;
+    height: 15px;
+    width: 20%;
+    
+}
+
+#centrado1 {
+    text-align: center;
+    float: right;
+    height: 200px;
+    width: 80%;
+    margin: auto;
+    background-color: aqua;
+    
+}
+#centrado2 {
+    text-align: left;
+    float: right;
+    height: 180px;
+    width: 80%;
+    margin: auto;
+    background-color: yellow;
+}
+#centrado3 {
+    text-align: left;
+    float: right;
+    height: 180px;
+    width: 80%;
+    margin: auto;
+    background-color: orangered;
+}
+#centrado4 {
+    text-align: left;
+    float: right;
+    height: 180px;
+    width: 80%;
+    margin: auto;
+    background-color: red;
+}
+
